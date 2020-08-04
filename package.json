@@ -1,0 +1,22 @@
+{
+  "name": "pluto-travel",
+  "version": "1.0.0",
+  "description": "Say hello to Pluto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tauriqh/pluto-travel.git"
+  },
+  "keywords": [
+    "pluto"
+  ],
+  "author": "Tauriq Hendricks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tauriqh/pluto-travel/issues"
+  },
+  "homepage": "https://github.com/Tauriqh/pluto-travel#readme"
+}
